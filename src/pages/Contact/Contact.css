@@ -11,6 +11,6 @@
 }
 @media (max-width: 920px) {
     .contact_div{
-        top: 65%;
+       margin-top: 150px;
     }
 }

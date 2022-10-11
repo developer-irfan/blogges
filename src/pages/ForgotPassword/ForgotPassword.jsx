@@ -49,7 +49,7 @@ const ForgotPassword = () => {
 
   //return
   return (
-    <div>
+    <div className="fp_div">
       <header>
         <div className="view" style={{ height: "500px" }}>
           <div className="mask">

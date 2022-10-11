@@ -1,0 +1,16 @@
+.contact_div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* text-align: center; */
+    z-index: -1;
+    width: 100%;
+    padding: 0 30px;
+    color: #1b1b1b;
+}
+@media (max-width: 920px) {
+    .contact_div{
+        top: 65%;
+    }
+}

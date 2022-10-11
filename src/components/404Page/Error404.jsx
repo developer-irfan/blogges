@@ -4,7 +4,7 @@ import "./404.css";
 import error_img from "../../Assets/Images/404.gif";
 const Error404 = () => {
   return (
-    <div className="view" style={{ height: "600px" }}>
+    <div className="view error_div" style={{ height: "600px" }}>
       <section className="page_404">
         <div className="container">
           <div className="row">

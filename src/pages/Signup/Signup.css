@@ -22,3 +22,8 @@
   padding: 0 30px;
   color: #1b1b1b;
 }
+@media (max-width: 920px) {
+  .about_div{
+      margin-top: 140px;
+  }
+}

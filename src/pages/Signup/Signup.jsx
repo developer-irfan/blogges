@@ -134,7 +134,6 @@ export default function Signup() {
                     fullWidth
                     id="firstName"
                     label="First Name"
-                    autoFocus
                     InputLabelProps={{
                       style: { color: "grey" },
                     }}

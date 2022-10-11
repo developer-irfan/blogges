@@ -115,7 +115,6 @@ const Login = () => {
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   autoComplete="email"
-                  autoFocus
                 />
                 {errors.email && errors.email.type === "required" && (
                   <p

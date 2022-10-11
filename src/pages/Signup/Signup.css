@@ -23,7 +23,7 @@
   color: #1b1b1b;
 }
 @media (max-width: 920px) {
-  .about_div{
+  .signup_div{
       margin-top: 140px;
   }
 }
